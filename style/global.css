@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
+
+
+
+
+/* .HomeWrapper{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.FilterWrapper{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin-top: 15px;
+}
+
+.Category{
+    padding: 10px 15px;
+ 
+    margin: 0px 15px;
+    border-radius: 8px;
+    font-family: 'Poppins';
+    font-weight: normal;
+    cursor: pointer;
+} */
+
